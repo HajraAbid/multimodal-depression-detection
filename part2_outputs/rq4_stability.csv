@@ -1,0 +1,5 @@
+feature set,method,setting,avg features selected,Nogueira stability,mean Jaccard,chosen in ≥80% of runs
+Fusion: all (speech+text),filter (ANOVA),k=100,100.0,0.5203,0.3685,32
+Fusion: all (speech+text),embedded (L1),C=1.0,69.16,0.3017,0.1892,6
+Fusion: hand-crafted (speech+text),filter (ANOVA),k=10,10.0,0.4511,0.3345,5
+Fusion: hand-crafted (speech+text),embedded (L1),C=1.0,51.08,0.435,0.465,27

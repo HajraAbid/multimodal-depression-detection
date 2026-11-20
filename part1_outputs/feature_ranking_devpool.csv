@@ -1,0 +1,192 @@
+feature,block,cohens_d,p_value,mean_depressed,mean_not_depressed,q_value_BH
+eg_F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope,acoustic: eGeMAPS,0.5563,0.0212,192.446,155.0312,0.8106
+tx_anxiety_per100,linguistic,0.5461,0.0132,0.1563,0.0855,0.6288
+cov_QOQ_std,acoustic: COVAREP voice,0.5391,0.0128,0.1455,0.1278,0.8129
+cov_H1H2_mean,acoustic: COVAREP voice,0.5097,0.0111,4.2623,2.882,1.0
+mfcc12_mean,acoustic: MFCC,-0.502,0.0057,-0.2595,1.3954,1.0
+tx_neg_emotion_per100,linguistic,0.4758,0.047,0.5329,0.3988,0.6906
+eg_F3frequency_sma3nz_amean,acoustic: eGeMAPS,0.4173,0.0445,2716.9013,2689.6153,0.7734
+cov_NAQ_std,acoustic: COVAREP voice,0.4028,0.0374,0.0477,0.0444,0.8925
+eg_F0semitoneFrom27.5Hz_sma3nz_meanFallingSlope,acoustic: eGeMAPS,0.4002,0.152,57.5495,47.1254,0.7446
+tm_latency_std_s,"timing (turns, pauses)",0.3835,0.2747,1.1706,0.9635,0.7949
+cov_F0_std,acoustic: COVAREP voice,0.383,0.0374,30.3128,26.2739,1.0
+fmt_F3_std,acoustic: formants,0.381,0.0501,459.6724,433.0901,0.6381
+fmt_F1_std,acoustic: formants,0.3778,0.0697,187.6595,180.0855,0.7009
+tm_latency_mean_s,"timing (turns, pauses)",0.3762,0.1652,1.4139,1.2177,0.7336
+mfcc13_mean,acoustic: MFCC,0.3713,0.0817,-0.1743,-1.3162,0.6499
+eg_F2frequency_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.3644,0.0408,0.1521,0.1585,0.8665
+mfcc2_mean,acoustic: MFCC,-0.3625,0.048,102.1505,108.183,0.6552
+cov_PSP_mean,acoustic: COVAREP voice,0.3569,0.0282,0.204,0.1859,0.8964
+eg_mfcc1V_sma3nz_stddevNorm,acoustic: eGeMAPS,0.3548,0.1711,0.246,0.2312,0.6952
+eg_F0semitoneFrom27.5Hz_sma3nz_stddevRisingSlope,acoustic: eGeMAPS,0.348,0.1167,320.8934,280.5238,0.7433
+cov_peakSlope_std,acoustic: COVAREP voice,0.3386,0.0793,0.0657,0.0618,0.6586
+eg_F2frequency_sma3nz_amean,acoustic: eGeMAPS,0.335,0.0989,1633.668,1614.6883,0.6995
+eg_F1frequency_sma3nz_amean,acoustic: eGeMAPS,0.3306,0.1359,586.8444,571.9433,0.7208
+eg_shimmerLocaldB_sma3nz_stddevNorm,acoustic: eGeMAPS,0.33,0.0431,0.9872,0.947,0.8236
+eg_loudness_sma3_stddevNorm,acoustic: eGeMAPS,0.3292,0.0676,0.7706,0.7322,0.76
+mfcc9_std,acoustic: MFCC,0.3264,0.0718,12.4073,11.9477,0.6861
+eg_jitterLocal_sma3nz_stddevNorm,acoustic: eGeMAPS,0.3244,0.0683,1.7942,1.6531,0.7251
+eg_mfcc1_sma3_amean,acoustic: eGeMAPS,-0.3209,0.1056,27.1127,28.0743,0.6952
+cov_H1H2_std,acoustic: COVAREP voice,0.3207,0.0465,5.6132,5.3508,0.7402
+eg_F3frequency_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.3197,0.0733,0.1031,0.1076,0.6666
+eg_mfcc2_sma3_stddevNorm,acoustic: eGeMAPS,-0.3195,0.4309,-5.4239,3.8199,0.8849
+tm_latency_median_s,"timing (turns, pauses)",0.3192,0.168,1.1504,1.0111,0.713
+eg_F0semitoneFrom27.5Hz_sma3nz_amean,acoustic: eGeMAPS,0.3134,0.12,28.3056,26.7619,0.6739
+tx_i_words_per100,linguistic,0.3068,0.1507,10.803,10.204,0.7577
+cov_voiced_ratio,acoustic: COVAREP voice,-0.3061,0.1934,0.5975,0.6225,0.7241
+eg_F1bandwidth_sma3nz_amean,acoustic: eGeMAPS,0.3022,0.0841,1362.1887,1349.0552,0.6424
+vid_pose_Ty_std,video (supplementary),0.2934,0.1178,2.8055,2.6905,0.7032
+eg_slopeV500-1500_sma3nz_stddevNorm,acoustic: eGeMAPS,0.2905,0.7352,-1.28,-1.8284,0.9684
+eg_mfcc2V_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.2893,0.5177,-65.4583,1.8841,0.9071
+eg_jitterLocal_sma3nz_amean,acoustic: eGeMAPS,0.2886,0.6223,0.0196,0.0184,0.9359
+eg_VoicedSegmentsPerSec,acoustic: eGeMAPS,-0.2872,0.0857,1.8793,2.0149,0.6298
+eg_HNRdBACF_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.2865,0.1189,0.396,0.4216,0.6881
+cov_MDQ_mean,acoustic: COVAREP voice,0.2864,0.1641,0.0994,0.0955,0.7643
+mfcc4_mean,acoustic: MFCC,-0.2863,0.077,19.9657,22.0436,0.6686
+vid_gaze_x_0_std,video (supplementary),0.2795,0.1482,0.0692,0.0647,0.7649
+vid_gaze_y_1_std,video (supplementary),0.2785,0.1232,0.0667,0.0621,0.6725
+cov_Rd_std,acoustic: COVAREP voice,0.2765,0.1696,0.497,0.4664,0.7044
+mfcc8_mean,acoustic: MFCC,0.2661,0.2769,-0.6254,-2.0381,0.7894
+cov_PSP_std,acoustic: COVAREP voice,0.2656,0.2612,0.1796,0.161,0.8046
+cov_MDQ_std,acoustic: COVAREP voice,0.2626,0.2498,0.0303,0.0288,0.7951
+fmt_F2_std,acoustic: formants,0.2617,0.1711,431.8723,417.6659,0.6807
+mfcc13_std,acoustic: MFCC,-0.2601,0.1008,8.377,8.6851,0.6873
+vid_au_AU04_r_mean,video (supplementary),0.2599,0.1965,0.5255,0.4674,0.7081
+vid_au_AU17_r_mean,video (supplementary),-0.2582,0.2689,0.1673,0.1967,0.7903
+tm_interview_length_s,"timing (turns, pauses)",0.258,0.3797,928.5824,861.7576,0.8432
+vid_gaze_y_0_std,video (supplementary),0.256,0.1949,0.0685,0.064,0.7159
+eg_mfcc3_sma3_stddevNorm,acoustic: eGeMAPS,0.2538,0.3603,0.9701,0.8883,0.8392
+mfcc9_mean,acoustic: MFCC,0.2533,0.2789,-1.5912,-2.6355,0.7834
+eg_slopeV0-500_sma3nz_amean,acoustic: eGeMAPS,0.2469,0.1997,0.0198,0.0164,0.7062
+eg_slopeUV500-1500_sma3nz_amean,acoustic: eGeMAPS,0.2433,0.2127,0.0101,0.0087,0.7254
+eg_mfcc1_sma3_stddevNorm,acoustic: eGeMAPS,0.2429,0.2045,0.5831,0.5627,0.7101
+eg_F1amplitudeLogRelF0_sma3nz_amean,acoustic: eGeMAPS,-0.2425,0.3392,-100.5102,-96.2625,0.8307
+eg_spectralFlux_sma3_stddevNorm,acoustic: eGeMAPS,0.2411,0.0637,0.7587,0.716,0.7599
+eg_F1frequency_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.2317,0.1655,0.3352,0.3452,0.7182
+vid_pose_Tz_mean,video (supplementary),-0.2316,0.1754,554.7253,568.8359,0.6835
+cov_Rd_mean,acoustic: COVAREP voice,0.2294,0.3392,1.3368,1.2836,0.8202
+eg_logRelF0-H1-H2_sma3nz_amean,acoustic: eGeMAPS,0.2222,0.16,5.0845,4.5839,0.7639
+eg_loudness_sma3_percentile20.0,acoustic: eGeMAPS,-0.2216,0.2612,0.0512,0.0579,0.8177
+eg_shimmerLocaldB_sma3nz_amean,acoustic: eGeMAPS,-0.2199,0.1178,0.9459,0.9751,0.7259
+vid_gaze_x_0_mean,video (supplementary),0.218,0.265,0.0566,0.0354,0.791
+eg_F3amplitudeLogRelF0_sma3nz_stddevNorm,acoustic: eGeMAPS,0.2165,0.3257,-0.7623,-0.7873,0.8184
+vid_gaze_x_1_std,video (supplementary),0.2123,0.3438,0.0647,0.0608,0.8209
+cov_peakSlope_mean,acoustic: COVAREP voice,0.2102,0.2612,-0.3838,-0.3927,0.7918
+eg_mfcc3_sma3_amean,acoustic: eGeMAPS,-0.2086,0.287,10.6664,11.4997,0.7722
+tx_pos_emotion_per100,linguistic,-0.2072,0.1827,1.3702,1.5085,0.6979
+vid_au_AU04_r_std,video (supplementary),0.2051,0.4389,0.6548,0.6108,0.8918
+eg_slopeV500-1500_sma3nz_amean,acoustic: eGeMAPS,0.2013,0.3603,-0.0107,-0.0117,0.8291
+mfcc1_std,acoustic: MFCC,0.1995,0.337,83.3898,80.5889,0.8358
+vid_pose_Tx_mean,video (supplementary),-0.1957,0.2298,41.5948,52.162,0.744
+eg_MeanUnvoicedSegmentLength,acoustic: eGeMAPS,0.1919,0.6729,0.1887,0.1767,0.952
+vid_au_AU20_r_mean,video (supplementary),0.1872,0.1641,0.3355,0.3103,0.7461
+tm_speech_rate_wps,"timing (turns, pauses)",-0.1796,0.6745,3.0383,3.1138,0.9473
+tm_turn_dur_median_s,"timing (turns, pauses)",0.1776,0.5369,2.2566,2.0983,0.9157
+eg_mfcc1V_sma3nz_amean,acoustic: eGeMAPS,-0.1654,0.6417,36.4898,37.0202,0.9356
+vid_gaze_x_1_mean,video (supplementary),0.1626,0.2246,-0.1748,-0.1911,0.7525
+mfcc7_mean,acoustic: MFCC,-0.1624,0.4443,-6.8741,-6.0482,0.8932
+mfcc7_std,acoustic: MFCC,0.1624,0.6352,15.0621,14.7849,0.9332
+tm_turn_dur_mean_s,"timing (turns, pauses)",0.1603,0.3699,2.8534,2.703,0.8411
+eg_loudnessPeaksPerSec,acoustic: eGeMAPS,-0.1593,0.5384,2.6227,2.7242,0.9101
+tm_speaking_time_s,"timing (turns, pauses)",0.1589,0.3081,474.6866,438.4527,0.8061
+mfcc1_mean,acoustic: MFCC,-0.1565,0.3038,-466.231,-457.7497,0.8059
+tx_fillers_per100,linguistic,-0.1556,0.2809,4.8834,5.3069,0.7776
+tx_annotations_per_turn,linguistic,-0.1542,0.3871,0.1222,0.1336,0.8499
+tm_n_turns,"timing (turns, pauses)",0.1514,0.6159,172.7805,162.02,0.9564
+eg_StddevUnvoicedSegmentLength,acoustic: eGeMAPS,0.1464,0.4579,0.2329,0.2142,0.8925
+tx_negation_per100,linguistic,0.1447,0.319,1.3009,1.2599,0.8233
+eg_hammarbergIndexV_sma3nz_amean,acoustic: eGeMAPS,0.1421,0.7627,26.7482,26.3107,0.9777
+tx_type_token_ratio,linguistic,-0.1372,0.4973,0.3109,0.321,0.9046
+eg_spectralFlux_sma3_amean,acoustic: eGeMAPS,-0.1318,0.897,0.0367,0.0422,1.0
+vid_gaze_z_0_std,video (supplementary),0.1301,0.5206,0.019,0.0182,0.8958
+vid_au_AU09_r_mean,video (supplementary),0.1271,0.2281,0.4056,0.3851,0.751
+vid_gaze_z_1_mean,video (supplementary),-0.1263,0.4552,-0.9368,-0.9336,0.8963
+eg_loudness_sma3_stddevFallingSlope,acoustic: eGeMAPS,0.1261,0.7836,1.5386,1.4581,0.9782
+vid_au_AU02_r_std,video (supplementary),-0.1232,0.469,0.4961,0.5144,0.8958
+eg_slopeV0-500_sma3nz_stddevNorm,acoustic: eGeMAPS,0.1226,0.4718,0.8636,-1.1925,0.8922
+tx_vocab_size,linguistic,0.1206,0.4048,406.122,390.57,0.8687
+vid_pose_Tz_std,video (supplementary),0.1192,0.7182,3.1216,3.072,0.9728
+eg_mfcc4V_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.1192,0.9258,-1.2896,0.85,1.0
+eg_F3bandwidth_sma3nz_stddevNorm,acoustic: eGeMAPS,0.1147,0.4973,0.3526,0.3471,0.8961
+vid_pose_Rz_std,video (supplementary),-0.1136,0.4256,0.0834,0.088,0.8933
+cov_QOQ_mean,acoustic: COVAREP voice,0.1118,0.575,0.3616,0.3553,0.9387
+mfcc4_std,acoustic: MFCC,0.1048,0.9475,27.0562,26.7446,0.9944
+eg_spectralFluxV_sma3nz_stddevNorm,acoustic: eGeMAPS,0.1044,0.2809,0.8196,0.804,0.7665
+tm_speaking_share,"timing (turns, pauses)",0.1041,0.3748,0.496,0.4821,0.8421
+vid_pose_Ry_mean,video (supplementary),0.104,0.6064,0.0141,0.0068,0.9651
+mfcc6_mean,acoustic: MFCC,0.102,0.6127,0.1916,-0.4226,0.9672
+vid_au_AU10_r_std,video (supplementary),-0.0999,0.4774,0.4259,0.4379,0.8939
+vid_pose_Tx_std,video (supplementary),0.0992,0.7836,17.2665,16.4899,0.9718
+tx_words_per_turn_mean,linguistic,0.0959,0.5812,8.7132,8.4067,0.9408
+eg_alphaRatioUV_sma3nz_amean,acoustic: eGeMAPS,0.0958,0.5658,-14.0977,-14.3061,0.9397
+vid_pose_Rx_mean,video (supplementary),0.0936,0.3972,0.2131,0.2028,0.862
+eg_loudness_sma3_amean,acoustic: eGeMAPS,-0.0904,0.5206,0.1442,0.1501,0.904
+vid_pose_Rz_mean,video (supplementary),0.089,0.7182,-0.0082,-0.0144,0.966
+mfcc11_std,acoustic: MFCC,-0.0882,0.5147,9.744,9.8489,0.9188
+tx_words_per_turn_std,linguistic,0.0879,0.483,8.0125,7.7536,0.8957
+vid_au_AU09_r_std,video (supplementary),0.0875,0.319,0.5215,0.5093,0.8124
+eg_F0semitoneFrom27.5Hz_sma3nz_stddevFallingSlope,acoustic: eGeMAPS,0.0875,0.4552,4.6487,4.5804,0.9056
+tx_we_words_per100,linguistic,-0.0856,0.4657,0.4133,0.4484,0.8984
+tx_short_turn_ratio,linguistic,-0.0801,0.6679,0.369,0.377,0.9592
+eg_hammarbergIndexV_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0795,0.4151,0.2974,0.2932,0.881
+eg_F2bandwidth_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0791,0.575,0.3002,0.2975,0.9468
+mfcc12_std,acoustic: MFCC,0.0769,0.6515,9.1937,9.1107,0.9426
+mfcc2_std,acoustic: MFCC,-0.0751,0.3508,46.4307,46.9836,0.8273
+mfcc6_std,acoustic: MFCC,0.0673,0.9331,16.7019,16.5546,1.0
+vid_au_AU05_r_mean,video (supplementary),0.0672,0.742,0.1685,0.1616,0.9708
+cov_NAQ_mean,acoustic: COVAREP voice,0.0665,0.7697,0.1001,0.0985,0.98
+eg_MeanVoicedSegmentLengthSec,acoustic: eGeMAPS,-0.0665,0.6912,0.2262,0.2292,0.9498
+fmt_F3_mean,acoustic: formants,0.0664,0.9331,2480.3327,2474.7674,1.0
+vid_gaze_z_0_mean,video (supplementary),0.0655,0.8827,-0.9528,-0.9545,1.0
+eg_F0semitoneFrom27.5Hz_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.0614,0.9584,0.1202,0.122,0.9841
+vid_au_AU12_r_mean,video (supplementary),0.0598,0.897,0.3261,0.3165,1.0
+vid_au_AU06_r_std,video (supplementary),-0.0579,0.7593,0.3821,0.3893,0.9799
+eg_slopeUV0-500_sma3nz_amean,acoustic: eGeMAPS,-0.0578,0.9511,-0.0105,-0.01,0.9927
+eg_StddevVoicedSegmentLengthSec,acoustic: eGeMAPS,-0.0568,0.8648,0.1965,0.1988,0.9951
+vid_au_AU10_r_mean,video (supplementary),-0.0547,0.6287,0.2663,0.2733,0.9382
+vid_gaze_y_1_mean,video (supplementary),-0.0541,0.8827,0.2524,0.257,0.9976
+tx_words_per_turn_median,linguistic,0.0538,0.6342,6.3171,6.16,0.9391
+eg_alphaRatioV_sma3nz_amean,acoustic: eGeMAPS,-0.0534,0.9982,-16.1082,-15.9726,0.9982
+mfcc11_mean,acoustic: MFCC,-0.0528,0.7284,-1.627,-1.447,0.9661
+eg_F3bandwidth_sma3nz_amean,acoustic: eGeMAPS,-0.0471,0.6159,966.496,969.5668,0.9487
+vid_au_AU25_r_mean,video (supplementary),0.0455,0.7455,1.1389,1.1204,0.9686
+vid_pose_Ry_std,video (supplementary),-0.0443,0.6127,0.1055,0.1072,0.9592
+vid_gaze_y_0_mean,video (supplementary),-0.0417,0.8257,0.2442,0.2478,0.9617
+mfcc10_std,acoustic: MFCC,-0.0412,0.8755,11.3346,11.3968,1.0
+vid_au_AU01_r_mean,video (supplementary),-0.0411,0.6032,0.5389,0.5486,0.9681
+mfcc3_mean,acoustic: MFCC,0.0392,0.9511,3.9528,3.4987,0.9873
+vid_au_AU15_r_mean,video (supplementary),-0.0382,0.7871,0.1686,0.1722,0.9636
+tx_absolutist_per100,linguistic,0.038,0.6828,0.8054,0.7892,0.9451
+eg_mfcc2_sma3_amean,acoustic: eGeMAPS,-0.0378,0.6191,5.6978,5.8647,0.946
+eg_logRelF0-H1-A3_sma3nz_amean,acoustic: eGeMAPS,0.0377,0.6679,26.579,26.4341,0.952
+eg_mfcc4_sma3_stddevNorm,acoustic: eGeMAPS,-0.0369,0.5177,0.7474,2.8538,0.9155
+eg_mfcc3V_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0362,0.725,2.0485,1.9461,0.9683
+vid_au_AU02_r_mean,video (supplementary),-0.0351,0.8046,0.3447,0.3502,0.9726
+mfcc5_mean,acoustic: MFCC,-0.0344,0.8612,0.7281,0.9825,0.997
+eg_equivalentSoundLevel_dBp,acoustic: eGeMAPS,-0.0321,0.9403,-40.594,-40.4336,0.9922
+eg_F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2,acoustic: eGeMAPS,-0.0318,0.9295,3.8333,3.8675,1.0
+eg_logRelF0-H1-H2_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0314,0.483,1.5588,1.4508,0.8871
+vid_au_AU01_r_std,video (supplementary),-0.0309,0.4282,0.7408,0.7487,0.889
+vid_pose_Ty_mean,video (supplementary),0.0301,0.8187,10.51,9.2599,0.9593
+eg_logRelF0-H1-A3_sma3nz_stddevNorm,acoustic: eGeMAPS,-0.0292,0.7941,0.3479,0.35,0.966
+eg_mfcc4_sma3_amean,acoustic: eGeMAPS,-0.0283,0.9837,-0.8129,-0.6563,0.9941
+vid_pose_Rx_std,video (supplementary),0.0276,0.6191,0.0999,0.099,0.9385
+eg_loudness_sma3_stddevRisingSlope,acoustic: eGeMAPS,0.0239,0.9982,1.7177,1.6979,1.0
+vid_au_AU06_r_mean,video (supplementary),-0.0221,0.9186,0.2138,0.2165,1.0
+eg_alphaRatioV_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0207,0.7801,-0.4325,-0.4343,0.9802
+vid_gaze_z_1_std,video (supplementary),0.0205,0.5414,0.0232,0.0231,0.9072
+vid_au_AU14_r_mean,video (supplementary),0.0201,0.8081,0.4026,0.3995,0.9647
+vid_au_AU14_r_std,video (supplementary),-0.0165,0.9078,0.5299,0.5321,1.0
+vid_au_AU26_r_mean,video (supplementary),0.0162,0.708,0.0559,0.0551,0.9659
+tx_mean_word_len,linguistic,-0.0157,0.9367,3.9049,3.907,0.9995
+fmt_F1_mean,acoustic: formants,-0.0151,0.8151,485.6356,486.2093,0.9611
+eg_F2bandwidth_sma3nz_amean,acoustic: eGeMAPS,0.0136,0.7871,1041.3519,1040.646,0.9699
+mfcc3_std,acoustic: MFCC,-0.0115,0.9692,32.8176,32.8833,0.9899
+mfcc10_mean,acoustic: MFCC,-0.0085,0.9367,0.8357,0.8738,0.9939
+mfcc8_std,acoustic: MFCC,-0.0063,0.8081,13.3725,13.3833,0.9707
+fmt_F2_mean,acoustic: formants,0.0057,0.6745,1507.2155,1506.8174,0.9404
+eg_F1bandwidth_sma3nz_stddevNorm,acoustic: eGeMAPS,0.0056,0.9042,0.1533,0.1533,1.0
+tx_one_word_turn_ratio,linguistic,-0.0046,0.8098,0.191,0.1913,0.9608
+eg_loudness_sma3_meanRisingSlope,acoustic: eGeMAPS,-0.0033,0.7766,1.2166,1.2175,0.9823
+mfcc5_std,acoustic: MFCC,0.0012,0.9511,19.488,19.4846,0.982
+vid_au_AU12_r_std,video (supplementary),0.0001,0.9728,0.5002,0.5002,0.9884

@@ -1,0 +1,7 @@
+,block,selected share,mean depressed,mean not depressed,Cohen's d,direction in depressed
+eg_F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope,Acoustic (hand-crafted),0.88,192.446,155.0312,0.5563,higher
+tx_anxiety_per100,Text (hand-crafted),0.88,0.1563,0.0855,0.5461,higher
+mfcc12_mean,Acoustic (hand-crafted),0.8,-0.2595,1.3954,-0.502,lower
+cov_QOQ_std,Acoustic (hand-crafted),0.8,0.1455,0.1278,0.5391,higher
+cov_H1H2_mean,Acoustic (hand-crafted),0.8,4.2623,2.882,0.5097,higher
+tx_neg_emotion_per100,Text (hand-crafted),0.72,0.5329,0.3988,0.4758,higher

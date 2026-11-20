@@ -1,0 +1,9 @@
+RQ1  Yes. Majority baseline 0.415. Acoustic: hand-crafted 0.572, wav2vec2 0.573, both 0.613. Text: hand-crafted 0.514, MentalBERT 0.695, both 0.697.
+
+RQ2  Best fusion: Early fusion (all) (0.732) vs best single modality Text: all (0.697): +0.036. A small gain, better in 6/10 folds; given a fold-to-fold SD of ≈0.09 this is suggestive, not conclusive.
+
+RQ3  All speech+text: filter (ANOVA) with ~100 of 3217 features reaches 0.712 vs 0.732 (96.9% fewer); hand-crafted speech+text: filter (ANOVA) with ~10 of 145 features reaches 0.564 vs 0.569 (93.1% fewer).
+
+RQ4  Nogueira stability — Fusion: all (speech+text) / filter (ANOVA): 0.52 (32 features chosen in ≥80% of runs); Fusion: all (speech+text) / embedded (L1): 0.30 (6 features chosen in ≥80% of runs); Fusion: hand-crafted (speech+text) / filter (ANOVA): 0.45 (5 features chosen in ≥80% of runs); Fusion: hand-crafted (speech+text) / embedded (L1): 0.44 (27 features chosen in ≥80% of runs).
+
+TEST Best overall (Fusion: all (speech+text) — Logistic regression, top-200 ANOVA features): macro-F1 0.676, AUC 0.721, recall 0.571. Best compact (Fusion: all (speech+text) — Logistic regression, top-100 ANOVA features): macro-F1 0.631, AUC 0.727, recall 0.643.

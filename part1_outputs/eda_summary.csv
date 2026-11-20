@@ -1,0 +1,18 @@
+,0
+participants with data,188
+"excluded (listed in split, no data)",[440]
+development pool / test,141 / 47
+depressed share (dev pool),29.1%
+official label != (PHQ-8 >= 10),[409]
+"recording length, min (median, range)",15.2 (6.9–32.8)
+"participant speech kept, min (median)",7.1
+"participant turns (median, range)",154 (42–386)
+"OpenFace success rate (median, min)","0.970, 0.741"
+final features,191
+features p<0.05 / FDR q<0.10,14 / 0 of 191
+top timing features,"tm_latency_std_s (d=+0.38, p=0.275); tm_latency_mean_s (d=+0.38, p=0.165); tm_latency_median_s (d=+0.32, p=0.168)"
+top linguistic features,"tx_anxiety_per100 (d=+0.55, p=0.013); tx_neg_emotion_per100 (d=+0.48, p=0.047); tx_i_words_per100 (d=+0.31, p=0.151)"
+top acoustic features,"eg_F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope (d=+0.56, p=0.021); cov_QOQ_std (d=+0.54, p=0.013); cov_H1H2_mean (d=+0.51, p=0.011)"
+top video features,"vid_pose_Ty_std (d=+0.29, p=0.118); vid_gaze_x_0_std (d=+0.28, p=0.148); vid_gaze_y_1_std (d=+0.28, p=0.123)"
+gender x depression chi2 p,0.095
+split shift (share KS p<0.05) dev/test,0.042 / 0.010

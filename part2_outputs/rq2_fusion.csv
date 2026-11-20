@@ -1,0 +1,12 @@
+,macro_f1,macro_f1_sd,auc,bal_acc,recall_dep,precision_dep,n_features,candidate
+Majority baseline,0.415,0.0036,0.5,0.5,0.0,0.0,0.0,majority
+Acoustic: hand-crafted,0.5717,0.0951,0.6141,0.5801,0.4403,0.4162,128.0,acoustic_hc|logreg|cw
+Acoustic: wav2vec2,0.5733,0.0661,0.6457,0.5908,0.4667,0.413,1536.0,acoustic_w2v|logreg|smote
+Acoustic: all,0.6128,0.0527,0.6726,0.6221,0.4792,0.481,1664.0,acoustic|logreg|cw
+Text: hand-crafted,0.514,0.1222,0.564,0.5271,0.4542,0.356,17.0,text_hc|logreg|cw
+Text: MentalBERT,0.6954,0.0904,0.7366,0.6962,0.5625,0.5916,1536.0,text_bert|svm|cw
+Text: all,0.6965,0.0984,0.7341,0.6962,0.5625,0.6074,1553.0,text|svm|cw
+Early fusion (hand-crafted),0.5685,0.0962,0.6401,0.5794,0.4639,0.423,145.0,handcrafted|logreg|cw
+Early fusion (all),0.7321,0.087,0.7919,0.7332,0.6014,0.6499,3217.0,early_fusion|logreg|smote
+Late fusion (equal),0.6193,0.0666,0.7101,0.6429,0.5708,0.5418,,late_fusion_equal
+Weighted late fusion,0.6386,0.1098,0.6735,0.6469,0.5389,0.4915,,late_fusion_weighted
