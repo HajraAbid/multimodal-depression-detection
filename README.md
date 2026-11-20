@@ -156,10 +156,6 @@ With 14 depressed test participants, one person moves macro-F1 by about 0.02–0
   - steeper rising pitch slopes
 - Depressed participants also pause somewhat longer before answering.
 
-## Report
-
-`DSTT_Term_Project_Report.docx` / `.pdf`: an 8-page report covering introduction, methodology, results, analysis and conclusion. Every number in it comes from the executed notebooks.
-
 ## Limitations
 
 - Small sample (141 development, 47 test participants). Fold-to-fold standard deviation of macro-F1 is about 0.05–0.12.
